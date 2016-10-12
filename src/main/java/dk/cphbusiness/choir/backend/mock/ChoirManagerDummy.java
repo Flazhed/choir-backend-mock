@@ -27,6 +27,7 @@ public class ChoirManagerDummy implements ChoirManager {
     new Member("Anders", "Kalhauge", "anders@kalhauge.dk", "21724411", "tenor");
     new Member("Kurt", "Hansen", "kurt@mail.dk", "12345678", "tenor");
     new Member("Per", "Larsen", "per@mail.dk", "12345678", "bass");
+    new Member("Per", "Larsen", "per@mail.dk", "12345678", "bass");
     }
   
   
